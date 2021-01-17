@@ -19,7 +19,7 @@ body {
   width: 100%;
   min-height: 100vh;
   padding: 0px 10vw;
-  /* animation: bg-animation 10s ease infinite; */
+  animation: bg-animation 10s ease infinite;
 } 
 
 @keyframes bg-animation {
